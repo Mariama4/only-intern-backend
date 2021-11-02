@@ -12,7 +12,6 @@
 /** @var CBitrixComponent $component */
 $this->setFrameMode(true);
 $this->addExternalCss("/local/templates/assets/css/common.css");
-
 ?>
 <?php if (!empty($arResult['ITEMS'])): ?>
 
@@ -23,7 +22,7 @@ $this->addExternalCss("/local/templates/assets/css/common.css");
                 $this->AddEditAction($arItem['ID'], $arItem['EDIT_LINK'], CIBlock::GetArrayByID($arItem["IBLOCK_ID"], "ELEMENT_EDIT"));
                 $this->AddDeleteAction($arItem['ID'], $arItem['DELETE_LINK'], CIBlock::GetArrayByID($arItem["IBLOCK_ID"], "ELEMENT_DELETE"), array("CONFIRM" => GetMessage('CT_BNL_ELEMENT_DELETE_CONFIRM')));
                 ?>
-                <a class="article-item article-list__item" href="#" id="<?=$this->GetEditAreaId($arItem['ID']);?>" data-anim="anim-3">
+                <a class="article-item article-list__item" href="<?= isset($arItem['PROPERTIES']['LINK']['VALUE']) ? $arItem['PROPERTIES']['LINK']['VALUE'] : '#'; ?>" id="<?=$this->GetEditAreaId($arItem['ID']);?>" data-anim="anim-3">
                     <div class="article-item__background">
                         <?php if (!empty($arItem['PREVIEW_PICTURE']['SRC'])): ?>
                             <img src="<?= $arItem['PREVIEW_PICTURE']['SRC']; ?>"
