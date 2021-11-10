@@ -1,36 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f712e09-b332-422d-9902-3e44f1107d57" name="Changes" comment="add attr data-anim">
+    <list default="true" id="8f712e09-b332-422d-9902-3e44f1107d57" name="Changes" comment="add attr href to tag &lt;a&gt;">
+      <change afterPath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/form.result.new/17/17e2333b5e5c47f03b3591ed649db213.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitrix/site_checker_64b4e6780b5e14213e50ac1c6658f518.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forma-obratnoy-svyazi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/images/favicon.604825ed.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/images/edit_def_templ_icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/images/edit_templ_icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/images/icon_warn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/images/table_head.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/template0.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Extrabold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Extrabold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Extrabold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/Gilroy-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/GothamPro.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/GothamPro.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/fonts/GothamPro.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/cache/42/42d49309ef3bb67c4069f3e370b27e4b.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/42/42d49309ef3bb67c4069f3e370b27e4b.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/cache/76/763d005c866fe92c13da2a7d6283a7e8.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/76/763d005c866fe92c13da2a7d6283a7e8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/cache/4f/4fadd84ddc3cdb1b3e49623187621f53.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/4f/4fadd84ddc3cdb1b3e49623187621f53.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/cache/abtest/3c/3caf443cf57f6fb632df7f167cdb7c7b.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/abtest/3c/3caf443cf57f6fb632df7f167cdb7c7b.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/cache/e6/e60fb0dcc86e9c42e3ec08a0ccb8f7b8.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/e6/e60fb0dcc86e9c42e3ec08a0ccb8f7b8.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/cache/f5/f5b21a3c0ad002c831779c2728d0f0c3.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/f5/f5b21a3c0ad002c831779c2728d0f0c3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/cache/ca/ca5a8c2a046e0e734cb372e48f66972a.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/ca/ca5a8c2a046e0e734cb372e48f66972a.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/cache/medialib/types/d1/d1cf12f4520f651e0fa5d54ee9301d94.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/medialib/types/d1/d1cf12f4520f651e0fa5d54ee9301d94.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/16/16908b0605f2645dfcb4c3a8d248cef3.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/16/16908b0605f2645dfcb4c3a8d248cef3.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/27/27850a3654870e28053dd5b6d2051c3e.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/27/27850a3654870e28053dd5b6d2051c3e.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/28/28976769ed03dceeac01ae0d1c0e331d.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/28/28976769ed03dceeac01ae0d1c0e331d.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/41/416acb540279140f55ddb5b83b7646b7.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/41/416acb540279140f55ddb5b83b7646b7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/56/56aad0e153c501be1c28648601caef55.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/56/56aad0e153c501be1c28648601caef55.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/65/65b7157158e194d714f3a0c683f9afce.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/65/65b7157158e194d714f3a0c683f9afce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/7a/7aa133cb4469ba4a5eff073b5bb12426.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/7a/7aa133cb4469ba4a5eff073b5bb12426.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/9a/9af5a4c25331d8bd4c5d68555ab1f760.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/9a/9af5a4c25331d8bd4c5d68555ab1f760.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/6e/6e66afacf139a564ec94722f7403f6aa.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/6e/6e66afacf139a564ec94722f7403f6aa.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/97/97256faf92817df2bc271378e1d17d14.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/97/97256faf92817df2bc271378e1d17d14.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/db/dbe00dce0bcd4d0479ac6ee177604892.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/db/dbe00dce0bcd4d0479ac6ee177604892.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/ec/eca380947aa83b89ebfde8658c6bb7b6.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/ec/eca380947aa83b89ebfde8658c6bb7b6.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/agents/76/76ee4ad3b12ba3471b5273d26f48b51b.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/agents/76/76ee4ad3b12ba3471b5273d26f48b51b.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_catalog_currency/8b/8bee609c70ea3973541eb24e440070f0.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_catalog_currency/8b/8bee609c70ea3973541eb24e440070f0.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_clouds_file_bucket/1a/1a01acc5e163d73a3f7a6fb4c387651a.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_clouds_file_bucket/1a/1a01acc5e163d73a3f7a6fb4c387651a.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/2d/2d01653203ee8a1e4595bd0b27d636f2.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/2d/2d01653203ee8a1e4595bd0b27d636f2.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock/12/12fe59ed4fd47eb7f7e38cdc8ffb4896.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock/12/12fe59ed4fd47eb7f7e38cdc8ffb4896.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/4a/4a6d950e7b4790479f950d2a5921c62d.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/4a/4a6d950e7b4790479f950d2a5921c62d.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/d1/d1fcc4d6b01472eb4145c2317c425042.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/d1/d1fcc4d6b01472eb4145c2317c425042.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/e0/e0adad38e1621b6d293028f934f3c26e.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/e0/e0adad38e1621b6d293028f934f3c26e.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/4d/4ddd3d008a59ee248a70e8d70e0f258e.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/4d/4ddd3d008a59ee248a70e8d70e0f258e.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/56/56286db91a415d6c554aab4b073a79e0.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/56/56286db91a415d6c554aab4b073a79e0.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/87/873202c2404c65d99ea73d27b5cfa2d5.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/87/873202c2404c65d99ea73d27b5cfa2d5.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/8a/8a6771cf0faa05bbec84465de484e41d.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/8a/8a6771cf0faa05bbec84465de484e41d.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/aa/aac7c831cdd8f2b58559c862f99bf946.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/aa/aac7c831cdd8f2b58559c862f99bf946.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/c5/c50f038ed6291a78ea68e4a590830017.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/c5/c50f038ed6291a78ea68e4a590830017.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/fc/fc70ad1863cba1f1760c13e7b4e20a98.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/fc/fc70ad1863cba1f1760c13e7b4e20a98.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/b2/b21d3c2ec406ac96b9b443675c383d36.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/b2/b21d3c2ec406ac96b9b443675c383d36.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/c0/c0a6035229545c96522ff35e2b8c37a0.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/c0/c0a6035229545c96522ff35e2b8c37a0.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/c3/c35050d36b400527c5a655799ffd5918.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/c3/c35050d36b400527c5a655799ffd5918.php" afterDir="false" />
@@ -42,15 +74,18 @@
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/2e/2e253c685b7c7d024ea4df067c3f9d7a.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/2e/2e253c685b7c7d024ea4df067c3f9d7a.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/50/50e86f69102f2636b841acbcfd284541.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/50/50e86f69102f2636b841acbcfd284541.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/52/52c483de41f9e2d615974398852ad3db.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/52/52c483de41f9e2d615974398852ad3db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/56/5665673611929c0f2a2ef5e6e2d81fb9.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/56/5665673611929c0f2a2ef5e6e2d81fb9.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/66/663c0b1ce5c397ac48c08a6b010307f6.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/66/663c0b1ce5c397ac48c08a6b010307f6.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/6b/6b52d662aca4033a55fe297007d1db71.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/6b/6b52d662aca4033a55fe297007d1db71.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/6f/6f7a4dd1eb5da0f11a25e38c162adc0a.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/6f/6f7a4dd1eb5da0f11a25e38c162adc0a.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/84/842ea7d8212267935138284eed21a90b.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/84/842ea7d8212267935138284eed21a90b.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/a3/a3a3aab7dd1920fefc85eba3261f30c7.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/a3/a3a3aab7dd1920fefc85eba3261f30c7.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/cf/cffd0ec36d62976eb4ba85730916e95f.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/cf/cffd0ec36d62976eb4ba85730916e95f.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/d5/d56664d14aae6347529fa48ce21da812.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/d5/d56664d14aae6347529fa48ce21da812.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/dd/dd7a69ea806a5967b0b29bf6c61c64c7.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/dd/dd7a69ea806a5967b0b29bf6c61c64c7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/dd/dd85da24e18f5c034a9bda482c8dd819.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/dd/dd85da24e18f5c034a9bda482c8dd819.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/e6/e69b462580b3cd8550c28eb99ac27172.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/e6/e69b462580b3cd8550c28eb99ac27172.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/f3/f3dbd89793a3538056e89c3a43664131.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/f3/f3dbd89793a3538056e89c3a43664131.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/eb/eb4318ab5b7c289d3293ebf00c61cbae.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/eb/eb4318ab5b7c289d3293ebf00c61cbae.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/f7/f7eed13788185df2bf070bfbc9a10322.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/f7/f7eed13788185df2bf070bfbc9a10322.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_sec_filter_mask/3e/3e109cefdbde61bf61a07dc79523b3a8.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_sec_filter_mask/3e/3e109cefdbde61bf61a07dc79523b3a8.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_sec_redirect_url/dd/ddc39d36dca0e1d26d89e2b1ae752402.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_sec_redirect_url/dd/ddc39d36dca0e1d26d89e2b1ae752402.php" afterDir="false" />
@@ -66,33 +101,59 @@
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b3/b3d102e05659b57fe9571855dab3fb50.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b3/b3d102e05659b57fe9571855dab3fb50.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b3/b3fcb28d7555a1c8631cec61e264ec75.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b3/b3fcb28d7555a1c8631cec61e264ec75.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/0c/0c29754507d3b6de41a19d433fe35f49.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/0c/0c29754507d3b6de41a19d433fe35f49.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/14/1443503f9233dfba903e4378bcc096fa.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/14/1443503f9233dfba903e4378bcc096fa.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/2f/2f0a715c791f6536876a0da8bd0cae52.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/2f/2f0a715c791f6536876a0da8bd0cae52.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/71/71c06b469c2eb5bb0fe1b706f1751744.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/71/71c06b469c2eb5bb0fe1b706f1751744.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_vote_channel/ea/ea545ae339b8172befc5456097d110f2.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_vote_channel/ea/ea545ae339b8172befc5456097d110f2.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/bd/bd21575483a0787a72df6dead4cb9a56.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/bd/bd21575483a0787a72df6dead4cb9a56.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fb/fbebca4e0e7b3b5d5031caeb6b93a51f.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fb/fbebca4e0e7b3b5d5031caeb6b93a51f.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_stickers_count/90/9025e60f0933010fc3419e4b9ce2beed.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_stickers_count/90/9025e60f0933010fc3419e4b9ce2beed.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_culture/83/8321c93059cccb2f8ebc0e0d169c8b8d.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_culture/83/8321c93059cccb2f8ebc0e0d169c8b8d.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_lang/89/89682c2cc68ace89f955850e859557f2.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_lang/89/89682c2cc68ace89f955850e859557f2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_lang/be/be9cdc2996d2d5edb90777844ec25bf0.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_lang/be/be9cdc2996d2d5edb90777844ec25bf0.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_socialservices_ap/20/20305753e215a6d3d488d18ab3154acb.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_socialservices_ap/20/20305753e215a6d3d488d18ab3154acb.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_user_auth_action/73/73c85e2dffc2cf2ab28a090b3043866b.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_user_auth_action/73/73c85e2dffc2cf2ab28a090b3043866b.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/events/49/4950220e4a6334e2e99b5f0eb44e033c.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/events/49/4950220e4a6334e2e99b5f0eb44e033c.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/site_checker/5c/5c6da7e88d19bbeee0ae40ae271e99a1.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/site_checker/5c/5c6da7e88d19bbeee0ae40ae271e99a1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/01/0188d3b3a37dc7ecc0c406ecb1ddeb6f.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/01/0188d3b3a37dc7ecc0c406ecb1ddeb6f.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/36/369f2b1f918fb10d6c5bf03eba4ad513.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/36/369f2b1f918fb10d6c5bf03eba4ad513.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/44/4467ff579bb3451b2c2dee0d475b4cf9.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/44/4467ff579bb3451b2c2dee0d475b4cf9.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/48/48dae5944dacb3000cfce5e53ea8ddc5.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/48/48dae5944dacb3000cfce5e53ea8ddc5.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/60/6044a48d2111dbfc47c876810364317a.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/60/6044a48d2111dbfc47c876810364317a.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/67/676186d848f3e2c452a086a860975cfa.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/67/676186d848f3e2c452a086a860975cfa.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/74/74ae411d554f04027801d562a04ad6e2.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/74/74ae411d554f04027801d562a04ad6e2.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/80/80d0df1c506cfa11d255d489ea901529.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/80/80d0df1c506cfa11d255d489ea901529.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/8a/8a1ff999214eb2486577cc2667a35e58.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/8f/8fe219017d20cdcb03fa4ee11303fc00.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/8f/8fe219017d20cdcb03fa4ee11303fc00.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/b2/b2405e0fd2bec8e8480579e5f5fd3162.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/b2/b2405e0fd2bec8e8480579e5f5fd3162.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/b5/b5fef86cde416d168f79a4d2cbdd0e09.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/b5/b5fef86cde416d168f79a4d2cbdd0e09.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/bd/bda1eed3dc15287945960c947a0cc6bc.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/bd/bda1eed3dc15287945960c947a0cc6bc.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e4/e46a7cd1240e5249e769c3b594014c74.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e4/e46a7cd1240e5249e769c3b594014c74.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e6/e6de97c4d404954fc411cff4540da30a.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e6/e6de97c4d404954fc411cff4540da30a.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/f0/f0fc06318e8ac66f82152783eff5c4d8.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/f0/f0fc06318e8ac66f82152783eff5c4d8.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/eb/eb3508c4ba55f931e8c612a0cb61f17c.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/eb/eb3508c4ba55f931e8c612a0cb61f17c.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/f0/f0fc06318e8ac66f82152783eff5c4d8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/modules/updater_partner.log" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/modules/updater_partner.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Extrabold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Extrabold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Extrabold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Extrabold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Extrabold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Extrabold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Light.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Medium.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/Gilroy-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/Gilroy-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/GothamPro.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/GothamPro.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/GothamPro.woff" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/GothamPro.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/fonts/GothamPro.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets/fonts/GothamPro.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/images/article-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/images/article-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/images/article-item-bg-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/images/article-item-bg-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/images/article-item-bg-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/images/article-item-bg-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/images/article-item-bg-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/images/article-item-bg-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/images/article-item-bg-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/images/article-item-bg-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/images/article-item-bg-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/images/article-item-bg-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/images/article-item-bg-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/assets/images/article-item-bg-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/assets/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp/template.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,20 +181,29 @@
     </include_path>
   </component>
   <component name="ProjectId" id="20K3wVpxFYE9TxTFpepoFbbOX8p" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form/assets" />
+      <recent name="$PROJECT_DIR$/local/templates/main/components/bitrix/form.result.new/contact_form" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/maintemp" />
       <recent name="$PROJECT_DIR$/local/templates" />
       <recent name="$PROJECT_DIR$/local/templates/assets" />
     </key>
@@ -147,7 +217,8 @@
       <option name="presentableId" value="Default" />
       <updated>1635779692915</updated>
       <workItem from="1635779694467" duration="8093000" />
-      <workItem from="1635856361688" duration="2167000" />
+      <workItem from="1635856361688" duration="2410000" />
+      <workItem from="1636538184380" duration="17945000" />
     </task>
     <task id="LOCAL-00001" summary="add attr data-anim">
       <created>1635856870885</created>
@@ -156,7 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635856870885</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add attr href to tag &lt;a&gt;">
+      <created>1635858611213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635858611213</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add attr href to tag &lt;a&gt;">
+      <created>1635858681824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635858681824</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +260,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add attr data-anim" />
-    <option name="LAST_COMMIT_MESSAGE" value="add attr data-anim" />
+    <MESSAGE value="add attr href to tag &lt;a&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add attr href to tag &lt;a&gt;" />
   </component>
 </project>

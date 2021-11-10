@@ -11,7 +11,7 @@
 /** @var string $componentPath */
 /** @var CBitrixComponent $component */
 $this->setFrameMode(true);
-$this->addExternalCss("/local/templates/assets/css/common.css");
+$this->addExternalCss("/local/templates/main/components/bitrix/news.list/maintemp/assets/css/common.css");
 ?>
 <?php if (!empty($arResult['ITEMS'])): ?>
 
